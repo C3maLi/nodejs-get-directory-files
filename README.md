@@ -44,7 +44,7 @@ Proje dizinine gidin
 Gerekli paketleri yükleyin
 
 ```bash
- yarn veya npm install
+ yarn
 ```
 
 Sunucuyu çalıştırın
@@ -52,17 +52,8 @@ Sunucuyu çalıştırın
 ```bash
   yarn start
 ```
-veya
-```bash
-  npm run start
-```
 Derleme
 
 ```bash
   yarn build
-```
-veya
-  
-```bash
-  npm run build
 ```
