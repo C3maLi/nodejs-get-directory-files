@@ -47,6 +47,11 @@ Gerekli paketleri yükleyin
  yarn
 ```
 
+Geliştirme ortamında çalıştırın
+
+```bash
+  yarn dev
+```
 Sunucuyu çalıştırın
 
 ```bash
